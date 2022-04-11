@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielFollet
 - 👀 I’m interested in Civil Engineering
 - 🌱 I’m currently learning Structural Engineering  and RC Seismic Design
-- 💞️ I’m looking to collaborate on Anything Structural Engineering
+- 💞️ I’m looking to collaborate on anything civil engineering related
 - 📫 How to reach me gabriel.follet@uc.cl
 
 <!---
