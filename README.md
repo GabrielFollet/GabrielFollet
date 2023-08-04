@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielFollet
-- 👀 I’m interested in Structural and Offshore engineerings
-- 🌱 I’m currently a Msc Student at TU Delft
+- 👀 I’m interested in Structural and Offshore engineering
+- 🌱 I’m currently a MSc Student at TU Delft
 - 💞️ I’m looking to collaborate on anything civil engineering related
 - 📫 How to reach me gabriel.cruzados@gmail.com
 
