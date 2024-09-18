@@ -1,5 +1,5 @@
 - I’m @GabrielFollet
-- BSc in Engineering Sciences, major in structural engineering, PUC Chile
+- BSc in Engineering Sciences, major in Structural engineering, PUC Chile
 - Civil-Structural MSc student at TU Delft
 - How to reach me: gabriel.cruzados@gmail.com
 
